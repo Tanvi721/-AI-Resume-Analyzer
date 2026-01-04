@@ -44,9 +44,10 @@ This screen recording demonstrates:
 
 | Skills & Projects | Job Matching |
 |------------------|--------------|
-|<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/cb21c16b-6b27-41df-9505-e11e75c0452a" />
-| <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d8f78f32-8d8c-4c85-b425-abcc0ec217df" />
- <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/740c9455-9164-4b9d-88d2-e14049c31826" />
+| <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/cb21c16b-6b27-41df-9505-e11e75c0452a" />
+ | <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d8f78f32-8d8c-4c85-b425-abcc0ec217df" />
+|<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/740c9455-9164-4b9d-88d2-e14049c31826" />|
+
 
 
 ---
