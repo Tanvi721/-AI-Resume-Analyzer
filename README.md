@@ -36,7 +36,7 @@ This screen recording demonstrates:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Output
 
 | Resume Upload & Parsing | Parsed Resume |
 |------------------------|---------------|
