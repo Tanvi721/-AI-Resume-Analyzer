@@ -7,7 +7,7 @@ An AI-powered web application that parses resumes and intelligently matches them
 
 ## 🎥 Project Demo (Screen Recording)
 
-▶️ **[Watch Full Project Demo](AI_Resume_Analyzer_Demo.mp4)**
+▶️ **[Watch Full Project Demo](AI_Resume_Analyzer_Demo.mp4.webm)**
 
 This screen recording demonstrates:
 - Resume upload (PDF/DOCX)
