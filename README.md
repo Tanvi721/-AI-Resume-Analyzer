@@ -3,9 +3,9 @@
 An AI-powered web application that parses resumes and intelligently matches them with job descriptions using Generative AI. The system extracts structured resume data and provides a match percentage, missing skills, and strength areas to help candidates improve their job readiness.
 
 ---
-[![Demo Video](https://img.shields.io/badge/Demo-Video-red)](AI_Resume_Analyzer_Demo.mp4.webm)
 
-## 🎥 Project Demo (Screen Recording)
+
+## 🎥 Project Demo
 
 ▶️ **[Watch Full Project Demo](AI_Resume_Analyzer_Demo.mp4.webm)**
 
