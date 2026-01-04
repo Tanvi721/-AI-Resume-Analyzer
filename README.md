@@ -43,11 +43,9 @@ This screen recording demonstrates:
 | <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/1571ffa1-9c3b-4293-9b2f-19d5ca76ba1d" /> | <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/adc3725e-93f5-44ca-8742-c68f730dbb28" />
  |
 
-| Skills & Projects | Job Matching |
-|------------------|--------------|
-| <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/cb21c16b-6b27-41df-9505-e11e75c0452a" />
- | <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d8f78f32-8d8c-4c85-b425-abcc0ec217df" />
-|<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/740c9455-9164-4b9d-88d2-e14049c31826" />|
+| Skills & Projects | Job Matching | Match percentage, missing skills, and strength areas |
+|------------------|--------------|--------------|
+| <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/cb21c16b-6b27-41df-9505-e11e75c0452a" /> | <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d8f78f32-8d8c-4c85-b425-abcc0ec217df" /> | <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/740c9455-9164-4b9d-88d2-e14049c31826" /> |
 
 
 
