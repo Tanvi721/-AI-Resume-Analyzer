@@ -71,5 +71,85 @@ This screen recording demonstrates:
 ---
 
 ## 📁 Project Structure
+AI-Resume-Analyzer/
+- ├── app.py # Streamlit frontend
+- ├── main.py # FastAPI backend
+- ├── utils.py # Resume text extraction
+- ├── run_all.py # Run frontend & backend together
+- ├── check_models.py # Gemini model checker
+- ├── requirements.txt # Dependencies
+
+
+
+---
+
+## ⚙️ Installation
+
+# 1️⃣ Clone Repository
+git clone https://github.com/your-username/AI-Resume-Analyzer.git
+cd AI-Resume-Analyzer
+
+# 2️⃣ Create Virtual Environment
+python -m venv venv
+venv\Scripts\activate     # Windows
+source venv/bin/activate # Linux / Mac
+
+# 3️⃣ Install Requirements
+pip install -r requirements.txt
+
+
+# 🔑 API Key Setup
+
+Add your Google Generative AI API Key inside main.py:
+GENAI_API_KEY = "YOUR_API_KEY"
+
+# ▶️ Run the Application
+Run Everything Together (Recommended)
+python run_all.py
+
+OR Run Separately
+
+- Backend
+uvicorn main:app --reload --port 8000
+
+- Frontend
+  streamlit run app.py
+
+# 🌐 Access URLs
+
+- Frontend (Streamlit): http://localhost:8501
+
+- Backend (FastAPI): http://localhost:8000
+
+# 📊 How It Works
+
+1. Upload resume (PDF/DOCX)
+
+2. AI extracts structured information
+
+3. Paste job description
+
+4. AI calculates:
+- Match Percentage
+- Missing Skills
+- Strength Areas
+
+# 🚀 Future Enhancements
+
+- Resume improvement suggestions
+
+- ATS keyword optimization
+
+- Multiple resume comparison
+
+- User authentication
+
+- Cloud deployment (AWS / Azure / GCP)
+
+# 👩‍💻 Author
+
+# Tanvi Barve
+Data Analyst | Data Scientist | AI & ML Enthusiast
+
 
 
